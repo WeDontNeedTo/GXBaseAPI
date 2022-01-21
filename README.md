@@ -1,6 +1,6 @@
 # GXBaseAPI
 
-## IN TEST NOW!!! USE IT ON YOUR OWN RISK!!!
+## DEPRECATED - use https://github.com/GARPIX-iOS/GXBaseAPI
 
 Test project for GARPIX Networking Layer
 
